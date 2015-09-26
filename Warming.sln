@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "ConsoleApplic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResolverEcuacionCuadratica.BL", "ResolverEcuacionCuadratica\ResolverEcuacionCuadratica.BL.csproj", "{0052D8B8-57A9-4D93-8E54-9896BB190DD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResolverEcuacionCuadratica.Test", "ResolverEcuacionCuadratica.Test\ResolverEcuacionCuadratica.Test.csproj", "{0795188C-DEEA-49E2-B719-61B466755E30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0052D8B8-57A9-4D93-8E54-9896BB190DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0052D8B8-57A9-4D93-8E54-9896BB190DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0052D8B8-57A9-4D93-8E54-9896BB190DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0795188C-DEEA-49E2-B719-61B466755E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0795188C-DEEA-49E2-B719-61B466755E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0795188C-DEEA-49E2-B719-61B466755E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0795188C-DEEA-49E2-B719-61B466755E30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
